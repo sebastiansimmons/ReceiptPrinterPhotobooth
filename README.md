@@ -4,4 +4,4 @@ A Raspberry Pi photobooth that prints on receipt paper. This is a personal art/p
 
 The current script is written in Processing3 for the Raspberry Pi.
 
-This is a work in progress.
+Like all of us, this is a work in progress.
